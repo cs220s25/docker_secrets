@@ -165,4 +165,5 @@ The output of this program will be the value you stored in Secrets Manager.
 
 ## References
 
+* [AWS: Understand the credential provider chain](https://docs.aws.amazon.com/sdkref/latest/guide/standardized-credentials.html#credentialProviderChain)
 * [Docker Docs: The `env_file` attribute](https://docs.docker.com/compose/how-tos/environment-variables/set-environment-variables/#use-the-env_file-attribute)
